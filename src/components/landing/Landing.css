@@ -1,0 +1,6 @@
+.start_btn {
+  background: url("../../../public/assets/icons/btn_icon.png") no-repeat center center;
+
+  background-size: 100%;
+  margin-top: 1rem;
+}
