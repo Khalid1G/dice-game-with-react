@@ -1,6 +1,6 @@
 # DICE GAME REACT PROJECT
 
-<img src="./Screenshot.png">
+![alt text](/Screenshot.png)
 
 # Getting Started with Create React App
 
