@@ -1,0 +1,20 @@
+.btn__container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 1rem;
+}
+
+button {
+  all: unset;
+  background: url("../../../public/assets/icons/btn_icon.png") no-repeat center
+    center;
+  background-size: 100%;
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  color: #FFF;
+  font-size: 22px;
+  font-weight: 700;
+}
+
